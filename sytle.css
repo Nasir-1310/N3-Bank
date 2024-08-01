@@ -1,0 +1,53 @@
+.container{
+    text-align: center;
+    margin-top: 60px;
+}
+.input-st{
+   
+}
+.login{
+    display: block;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 50px;
+    padding: 30px;
+    padding-bottom: 30px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px rgb(60, 29, 236);
+
+}
+#second{
+    display: none;
+    margin: 50px;
+}
+#second-down{
+    display: none;
+    margin: 60px;
+    margin-top: 100px;
+}
+
+.deposit{
+   background-color: aqua;
+}
+.withdraw{
+   background-color: blueviolet;
+}
+.balance{
+  background-color: yellow;
+}
+.style-ss{
+    margin: 0 20px;
+    padding: 10px;
+    border-radius: 20px;
+    
+}
+.style-ss-down{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 50px;
+    padding: 30px;
+    padding-bottom: 30px;
+    border-radius: 8px;
+    box-shadow: 5px 5px 10px rgb(60, 29, 236);
+
+}
